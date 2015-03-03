@@ -91,5 +91,5 @@ mask = chicago.Salary > 175000
 f = chicago[mask].groupby('Name')
 f.Salary.mean().order(ascending=False)
 
-##$2.42 Billion dollars is spent on the salaries of Chicago Public Employees + Benefits and Pensions. 
+#$2.42 Billion dollars is spent on the salaries of Chicago Public Employees + Benefits and Pensions. 
 print Chicago.salary.sum()
