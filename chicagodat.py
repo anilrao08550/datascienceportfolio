@@ -34,7 +34,7 @@ plt.xlabel('Number of People')
 
 
 # Plotting the distribution of salaries, it looks normally distributed
-figure(figsize=(10.75, 8.1)) 
+figure(figsize=(10.0, 7.5)) 
 plt.hist(chicago.Salary.dropna(), bins = 7)
 plt.title("Chicago Employee Salary Distribution", fontsize=16)
 plt.ylabel('Number of people')
