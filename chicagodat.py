@@ -8,6 +8,7 @@ import plotly
 %pylab inline
 #The first thing we are going to do is read in the data using Pandas. Then in the first part we will understand the data
 #In the 2nd step we will delve deeper into the data to help us answer fundamental questions
+chicago = pd.read_csv('chicagosalaries.csv')
 
 # grouping your results by department
 chicagodat = chicago.groupby('Department')
