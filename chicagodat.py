@@ -1,5 +1,5 @@
 #this project is about visualizing and understanding information of 30000+ Chicago public employees, department and their salaries
-#import databases for data analysis and viz
+#import databases for data analysis and viz. This project was completed in IPython Notebook
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
