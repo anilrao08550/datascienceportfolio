@@ -5,6 +5,8 @@ Project 1 in chicagodat.py will include a analysis and visualization of the City
 
 
 
+Project 2 in logisticregression.py will be a Machine Learning Logistic Regression problem predicting graduate admissions based on GRE, GPA and prestige of undergraduate school
 
-Project 2 will be a Machine Learning project about the Bike Usage in Washington DC
+
+Project 3(Currently in progress) will be a Machine Learning on the City of Washington D.C predicting bikesharing usage
 
